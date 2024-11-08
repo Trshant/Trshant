@@ -14,6 +14,6 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshant&hide='OpenEdge ABL',GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshant&hide=GLSL&show=SQL)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trshant&show_icons=true&locale=en" alt="trshant" /></p>
