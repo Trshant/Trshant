@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trshant&show_icons=true&locale=en&layout=compact" alt="trshant" /></p>
 
-<!--p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trshant&show_icons=true&locale=en " alt="trshant" /></p-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trshant&show_icons=true&locale=en " alt="trshant" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=OpenEdge,GLSL)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trshant&hide=OpenEdge,GLSL)
