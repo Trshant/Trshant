@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trshant Bhat</h1>
-<h3 align="center">A passionate software engineer from India, residing in Norway.</h3>
+<h3 align="center">A passionate software craftsman from India, residing in Norway.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trshant" alt="trshant" /></a> </p>
 
